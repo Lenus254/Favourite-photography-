@@ -49,4 +49,8 @@ a:link{
 a:hover{
     color: red;
     background-color: cyan;
+
+}
+a:visited:{
+    color: rgb(46, 48, 139);
 }
