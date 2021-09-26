@@ -46,3 +46,7 @@ a:link{
     padding: 15px;
     text-underline-position: below;
 }
+a:hover{
+    color: red;
+    background-color: cyan;
+}
