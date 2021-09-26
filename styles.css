@@ -35,3 +35,10 @@ h1{
     color: rgb(123, 46, 139);
     text-align: left;
     background-color: mintcream;
+  }
+  #picture{
+    height: 200px;
+    width: 200px;
+    background-clip: border-box;
+    border: 10px outset cyan;
+}
