@@ -12,3 +12,12 @@ ol{
     color: rgb(167, 26, 143);
     text-align: left;
 }
+h1{
+    
+    color: rgb(255, 0, 106);
+    padding:30px;
+    text-align: center;
+    font-weight: bolder;
+    background-clip: border-box;
+    border: 10px outset maroon;
+}
