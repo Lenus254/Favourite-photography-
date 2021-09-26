@@ -21,3 +21,13 @@ h1{
     background-clip: border-box;
     border: 10px outset maroon;
 }
+.biography{
+    
+    text-underline-position: below;
+    padding: 10px;
+    border: 10px inset lightblue;
+    align-items: center;
+    text-align: center;
+    color: slateblue;
+    
+  }
