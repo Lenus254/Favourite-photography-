@@ -42,3 +42,7 @@ h1{
     background-clip: border-box;
     border: 10px outset cyan;
 }
+a:link{
+    padding: 15px;
+    text-underline-position: below;
+}
