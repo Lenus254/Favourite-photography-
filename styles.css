@@ -1,0 +1,10 @@
+body{
+    background-color: lavender;
+    border: 1px solid black;
+    margin: 40px;
+    padding: 10px;
+    color: black;
+    text-align: left;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
