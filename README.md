@@ -1,4 +1,6 @@
 # The big five Photography project
 This website was designed to display photos of the big jungle kings as well as their nature characteristics.
 ## Technology employed
-This website was built using combinations of html markup language and styling css code
+This website was built using combinations of html markup language and styling css code.
+## Istallation/access guide
+use the link[photography web](https://lenus254.github.io/Favourite-photography-/) to acess the website.
