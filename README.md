@@ -14,5 +14,7 @@ linus langat
 * For support you can
 mailto lenniezl@yahoo.com
 * contributions and feature improvements are welcome.
-
+## license
+license is under [mit](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt)
+copyright 2021. linus langat
 
